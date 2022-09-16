@@ -40,8 +40,8 @@ So,In this project i have solved the problem with unsupervised machine learning 
   <source src="" type="video/mp4">
 Video: 
 </video>
-<a href="https://smsemailspamdetector.herokuapp.com/">Livelink</a>
-<a href="https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset">Dataset</a>
+<a href="https://mallcustomersegmentoravijit.herokuapp.com/">Livelink</a>
+<a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?resource=download">Dataset</a>
 </body>
 
 </html>
