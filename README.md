@@ -35,7 +35,7 @@ So,In this project i have solved the problem with unsupervised machine learning 
 <li>Checking a value</li>
 <li>Save The Model</li>
 </ol>
-<img src="project.png" width="700" height="400">
+<img src="projectDemo.png" width="700" height="400">
 <video width="320" height="240" controls src="./files/smsSpamDetector.mp4">
   <source src="" type="video/mp4">
 Video: 
